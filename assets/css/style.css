@@ -64,6 +64,18 @@ a {
     color: white;
 }
 
+#resume {
+    color: white;
+    background-color: #7c2245;
+    padding: 5px;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#all {
+    color: darkslategray;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
 li:hover {
     background-color: #7c2245;
     cursor: arrow;
